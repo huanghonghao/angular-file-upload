@@ -1,3 +1,4 @@
+```javascript
 Directives（指令）
 nv-file-drop
 <!-- 最少配置 -->
@@ -117,3 +118,4 @@ folder
 queueLimit
 
 github地址： https://github.com/nervgh/angular-file-upload/wiki/Module-API
+```
